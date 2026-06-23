@@ -34,7 +34,7 @@ This Power BI project provides a comprehensive, data-driven analysis of healthca
 ## 📂 How to View the Project
 1. Clone this repository to your local machine.
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/).
-3. Open the `Healthcare_Report.pbix` file to explore the interactive visual elements and DAX data models.
+3. Open the `Health project.pbix` file to explore the interactive visual elements and DAX data models.
 4. Watch the `Screen Recording 2026-06-24 044621.mp4` for a quick 1-minute navigation guide.
 
 ---
