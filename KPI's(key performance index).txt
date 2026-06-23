@@ -1,0 +1,15 @@
+KPI's(key performance index):
+
+1. Total Patient
+2. Total Doctor
+3. Total Hospital
+4. Total Amount
+5. AVG Patient per Doctor
+6. AVG age patient
+
+chart:-
+1. total patient according the blood group.
+2. total patient according the medical condition.
+3. total patient according the insurance.
+4. total patient according the admission type.
+5. total patient according the test result.
