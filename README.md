@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This Power BI project provides a comprehensive, data-driven analysis of healthcare operations, financial performance, and patient demographics. The interactive dashboard enables hospital administrators and healthcare professionals to optimize resource allocation, track revenue streams, and monitor patient health trends effectively.
 
-🎥 **Project Demo:** Refer to the file `Screen Recording 2026-06-19 202626.mp4` in this repository to see the full interactive walkthrough.
+🎥 **Project Demo:** Refer to the file `Screen Recording 2026-06-24 044621.mp4` in this repository to see the full interactive walkthrough.
 
 ---
 
@@ -35,7 +35,7 @@ This Power BI project provides a comprehensive, data-driven analysis of healthca
 1. Clone this repository to your local machine.
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/).
 3. Open the `Healthcare_Report.pbix` file to explore the interactive visual elements and DAX data models.
-4. Watch the Screen Recording for a quick 1-minute navigation guide.
+4. Watch the `Screen Recording 2026-06-24 044621.mp4` for a quick 1-minute navigation guide.
 
 ---
 💬 **Feedback & Collaboration:**  
